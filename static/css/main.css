@@ -1,7 +1,7 @@
 
 
 #TiT{
-    color: #5b68af;
+    color: teal;
 }
 
 body {
@@ -36,7 +36,7 @@ html, body, header, #hero {
 .about-social {
     font-size: 28px;
     font-family: 'Work Sans', sans-serif;
-    color: #5b68af;
+    color: teal;
     font-weight: 600;
     text-align: center;
 }
@@ -45,7 +45,7 @@ html, body, header, #hero {
     color: grey;
 }
 .icon-white {
-    color: #5b68af;
+    color: teal;
 }
 
 .icon {
@@ -77,7 +77,7 @@ html, body, header, #hero {
     text-align: left;
     line-height: 1.5em;
     font-weight: 300;
-    color: #5b68af;
+    color: teal;
 }
 
 .ref-year {
@@ -124,7 +124,7 @@ h3, h4, h5 {
 .subtitle {
     font-size: 25px;
     text-align: left;
-    color: #5b68af;
+    color: teal;
     text-transform: uppercase;
 }
 
@@ -210,16 +210,16 @@ h3, h4, h5 {
 }
 
 .link:hover {
-    color:#5b68af !important;
+    color:teal !important;
     border-bottom: none !important;
 }
 
 .link:active {
-    color: #5b68af !important;
+    color: teal !important;
 }
 
 .brand-scrolled:hover {
-    color:#5b68af !important;
+    color:teal !important;
 }
 
 .navbar-toggler {
@@ -247,7 +247,7 @@ h3, h4, h5 {
 }
 
 .fab:hover, .fas:hover {
-    color: #5b68af !important;
+    color: teal !important;
 } 
 
 .fas-small {
@@ -261,7 +261,7 @@ h3, h4, h5 {
 }
 
 .icon-title {
-    color: #5b68af;
+    color: teal;
     text-transform: none;
     text-align: center;
     font-size: 25px;
@@ -300,13 +300,13 @@ h3, h4, h5 {
 .title {
     font-family: 'Poppins', sans-serif;
     font-size: 36px;
-    color:#5b68af;
+    color:teal;
 }
 
 .title-h {
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
-    color:#5b68af;
+    color:teal;
     text-align: left;
 }
 
@@ -324,7 +324,7 @@ h3, h4, h5 {
         margin-top: -8px !important;
         padding-bottom: -15px !important; }
     .link {color: #000;}
-    .brand-scrolled {color: #5b68af !important;}
+    .brand-scrolled {color: teal !important;}
 }
 
 .carousel-control-prev-icon {
@@ -347,7 +347,7 @@ h3, h4, h5 {
 }
 
 .section-link {
-    color: #5b68af;
+    color: teal;
 }
 
 .page-footer {
@@ -492,7 +492,7 @@ h3, h4, h5 {
 }
 
 .brand-link:hover {
-    color:#5b68af !important;
+    color:teal !important;
 }
 
 
